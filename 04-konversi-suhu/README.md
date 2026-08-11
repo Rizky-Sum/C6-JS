@@ -22,3 +22,6 @@ Melatih pembuatan fungsi dengan parameter dan nilai kembalian (`return`).
 > Tulis di sini (3–5 kalimat, bahasamu sendiri):
 > - Bagaimana caramu menyelesaikan tugas ini?
 > - Apa bedanya fungsi yang pakai `return` dengan fungsi yang langsung `console.log` di dalamnya?
+// Saya membuat alat untuk memudah konversi celsius ke fairenheit dan reamur
+// Seperti kode rumus matematika lainya cuman memakai rumus kusus untuk setiap satuan suhu
+// fungsi yang menunakan retrun mengembalikan nilai dan consolog dari fungsi > rumus dan langsung menampilakn 
